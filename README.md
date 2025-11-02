@@ -1,4 +1,4 @@
-# T006 Datapath Circuit
+#  ALU Circuit Design
 
 This project implements the datapath of a simple processor using Logisim, designed to demonstrate key principles of computer architecture and digital logic design.
 
